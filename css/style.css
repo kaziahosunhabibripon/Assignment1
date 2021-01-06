@@ -174,7 +174,6 @@ body{
     width:100%;
     height: 650px;
     float: left;
-    border: 1px solid;
 
 }
 .down h1{
@@ -296,6 +295,13 @@ body{
     box-shadow: 2px 2px 5px 5px rgba(44, 28, 28, 0.082);
     border-radius: 10px;
 }
+#p1:hover{
+    color: black;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.637);
+    font-weight: bolder;
+    font-size: 1.6em;
+    width:35%;
+}
 #p2{
     width:25%;
     margin: 25px 20px;
@@ -310,4 +316,97 @@ body{
     color:whitesmoke;
     border-radius: 10px;
     box-shadow: 2px 2px 5px 5px rgba(44, 28, 28, 0.301);
+}
+#p2:hover{
+    color:rgba(0, 0, 0, 0.705);
+    box-shadow: 5px 5px 5px 5px  rgba(0, 0, 0, 0.637);
+    font-weight: bolder;
+    font-size: 1.6em;
+}
+.fotter-part{
+    width:100%;
+    height:550px;
+    float:left;
+   
+    border:1px solid;
+    
+}
+
+#signup{
+    float:left;
+    width: 40%;
+    height:90%;
+    background-image: url(../images/34.png);
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-repeat:no-repeat;
+    background-position: center;
+    margin: 10px 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px 5px rgb(19, 17, 17);
+}
+.Social-media{
+    width:100%;
+    height:250px;
+    float:left;
+
+}
+.left-signup{
+    width:100%;
+    height:20%;
+    border-radius: 20px;
+    text-align:center;
+    float:left;
+
+
+}
+.left-signup pre{
+    margin:0px;
+    padding:0px;
+    float:left;
+    width:100%;
+    height:95%;
+    font-size: 1.1em;
+    color:rgba(17, 2, 2, 0.753);
+    font-family: Verdana;
+    font-weight: bolder;
+}
+.right-signup{
+    width:25%;
+    height:25%;
+    margin:0px 47%;
+    text-align:center;
+    float:left;
+}
+#social1{
+    float: left;
+    width:15%;
+    height:40%;
+    background-image: url(../images/image5.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 40px ;
+
+}
+#social2{
+    float: left;
+    width:15%;
+    height:40%;
+    background-image: url(../images/image7.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 40px;
+
+}
+#social3{
+    float: left;
+    width:15%;
+    height:40%;
+    background-image: url(../images/image4.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 40px ;
+    
+
 }
