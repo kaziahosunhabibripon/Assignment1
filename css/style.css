@@ -200,7 +200,7 @@ body{
 }
 .work{
 
-    width: 30%;
+    width: 28%;
     height: 65%;
     float:left;
     margin: 5px 5px 0px 7px;
@@ -286,7 +286,6 @@ body{
 
 }
 #p1{
-    width:30%;
     float: left;
     text-align: center;
     color:white;
@@ -303,26 +302,20 @@ body{
     width:35%;
 }
 #p2{
-    width:25%;
     margin: 25px 20px;
     padding: 5px 1px;
     float: right;
+    width: 18%;
+    height:auto;
     text-align: center;
-    font-size: 25px;
-    font-weight:larger;
-    box-shadow: 5px;
-    text-align: center;
+    font-weight: bolder;
+    font-size: 1.6em;
     background-color:rgba(241, 11, 61, 0.849);
     color:whitesmoke;
     border-radius: 10px;
-    box-shadow: 2px 2px 5px 5px rgba(44, 28, 28, 0.301);
-}
-#p2:hover{
-    color:rgba(0, 0, 0, 0.705);
     box-shadow: 5px 5px 5px 5px  rgba(0, 0, 0, 0.637);
-    font-weight: bolder;
-    font-size: 1.6em;
 }
+
 .fotter-part{
     width:100%;
     height:550px;
