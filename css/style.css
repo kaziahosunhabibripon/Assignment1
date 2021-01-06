@@ -303,60 +303,63 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: 750px 180px;
-    border: 1px solid;
 }
 .Social-media{
     width:100%;
     height:250px;
     float:left;
-    border: 1px solid;
+
 
 }
-.left-signup{
+#left-signup{
     width:100%;
-    height:20%;
-    border-radius: 20px;
+    height:35%;
     text-align:center;
     float:left;
-
-
+    font-weight: bolder;
+    color:rgba(0, 0, 0, 0.658);
+    font-size:1.2em;
 }
 
-.right-signup{
+#right-signup{
     width:25%;
     height:25%;
-    margin:0px 47%;
+    margin:0px 45%;
     text-align:center;
     float:left;
+
 }
 #social1{
     float: left;
+    margin: 5%;
     width:15%;
-    height:40%;
+    height:60%;
     background-image: url(../images/image5.png);
     background-repeat: no-repeat;
     background-position:center;
-    background-size: 40px ;
+    background-size: 35px ;
 
 }
 #social2{
     float: left;
+    margin:5%;
     width:15%;
-    height:40%;
+    height:60%;
     background-image: url(../images/image7.png);
     background-repeat: no-repeat;
     background-position:center;
-    background-size: 40px;
+    background-size: 35px;
 
 }
 #social3{
     float: left;
+    margin: 5%;
     width:15%;
-    height:40%;
+    height:60%;
     background-image: url(../images/image4.png);
     background-repeat: no-repeat;
     background-position:center;
-    background-size: 40px ;
+    background-size: 35px ;
     
 
 }
